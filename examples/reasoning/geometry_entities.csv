@@ -1,0 +1,18 @@
+,3-sides-equal trapezoid,bicentric,complex,concave,convex,cyclic,isosceles trapezoid,kite,parallelogram,quadrilateral,rectangle,rhombus,right-angled trapezoid,simple,square,tangential,trapezoid
+3-sides-equal trapezoid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+bicentric,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+complex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+concave,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+convex,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+cyclic,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+isosceles trapezoid,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+kite,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+parallelogram,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+quadrilateral,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+rectangle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+rhombus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+right-angled trapezoid,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+simple,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+square,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tangential,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+trapezoid,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0

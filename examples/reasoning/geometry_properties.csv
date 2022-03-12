@@ -1,0 +1,16 @@
+,3-sides-equal trapezoid,bicentric,complex,concave,convex,cyclic,isosceles trapezoid,kite,parallelogram,quadrilateral,rectangle,rhombus,right-angled trapezoid,simple,square,tangential,trapezoid
+foursided,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+not-self-intersecting,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+self-intersecting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+no-reflex-interior-angle,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+atleast-one-reflex-interior-angle,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+sides-are-tangents-to-inscribed-circle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+atleast-one-pair-opposite-sides-parallel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+four-verticles-on-circumscribed-circle,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+two-pairs-adjacent-sides-equal-length,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+two-pairs-opposite-sides-parallel,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+two-adjacent-right-angles,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+base-angles-are-same,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+all-sides-equal-length,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+all-right-angles,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+atleast-three-congruent-sides,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
