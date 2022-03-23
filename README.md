@@ -9,6 +9,7 @@ Beware, errors are probably included, I am also learning :)
 * `02_geometry.ipynb` to `06_geometry.ipynb` - bigger set of examples which uses quadrilateral hierarchy and reasoning above it
 
 ## Learning
+* `01_training_example.ipynb` - simple demonstration of learning
 * `typicality.ipynb` - typicality example (work in progress, not working)
 
 
